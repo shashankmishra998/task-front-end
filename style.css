@@ -1,0 +1,223 @@
+#Marketing{
+    font-size: 2rem;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+#SocialMedia{
+    margin-top: 170px;
+    font-size: 30px;
+    color: #42495B;
+
+}
+#ForBusiness{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 40px;
+    color: #42495B;
+
+}
+#based
+{
+    font-size: 11px;
+    opacity: 1;
+    color: #7A839E;
+}
+#lorem
+{
+    font-size: 11px;
+    color: #7A839E;
+    opacity: 1;
+}
+#first-button{
+    font-size: 12px;
+    margin-top: 15px;
+    border-radius: 29px;
+    width: 170px;
+    background: transparent linear-gradient(270deg, #6156F9 0%, #1A129F 100%) 0% 0% no-repeat padding-box;
+    align-content: center;
+    height: 35px;
+    border: none;
+    color: white;
+}
+#second-button
+{
+    height: 53px;
+    border: none;
+    width: 49px;
+    border-radius: 124px;
+    background-color: whitesmoke;
+    margin-right: 506px;
+}
+#third-image
+{
+    padding-left: 75px;
+}
+#fourth-image
+{
+    background-image: url(../5.svg);
+}  
+#hero-text{
+    margin-right: 25%;
+    margin-left: 28px;
+}
+#bio
+{
+    margin-top: 118px;
+    color: #7E76F9;
+   
+   
+}
+#who
+{
+    font-size: 50px;
+    color: #42495B;
+}
+#theory{
+    color: #7A839E;
+    font-size: 13px;
+}
+#last
+{
+    color: #7A839E;
+    font-size: 13px;
+}
+#services{
+    color: #7E76F9;
+    margin-left: 8px;
+}
+#offer
+{
+    margin-left: 8px;
+    font-size: 34px;
+    color: #42495B;
+}
+.process
+{
+    width: 70px;
+    padding-top: 5%;
+    margin-left: 40%;
+}
+.ganga
+{
+    color: #42495B;
+    font-size: 15px;
+}
+.yamuna
+{
+    color: #42495B;
+    font-size: 13px;
+}
+#card-button
+{
+    font-size: 12px;
+    margin-top: 15px;
+    margin-left: 55%;
+    border-radius: 29px;
+    width: 100px;
+    background: transparent linear-gradient(270deg, #6156F9 0%, #1A129F 100%) 0% 0% no-repeat padding-box;
+    align-content: center;
+    height: 35px;
+    border: none;
+    color: white;
+}
+.ken
+{
+    border-radius: 20px;
+    height: 343px;
+
+}
+
+.hero-image{
+    background-image: url(../img/Group\ 1238.svg);
+}
+.ken1
+{
+    border-radius: 20px;
+}
+.ganga1
+{
+    color: #42495B;
+    font-size: 28px;
+    text-align: center;
+}
+.yamuna1
+{
+    color: #7A839E;
+    font-size: 16px;
+    text-align: center;
+}
+
+#card-button1
+{
+    font-size: 12px;
+    margin-top: 15px;
+    
+    /* margin-left: 55%; */
+    border-radius: 29px;
+    width: 150px;
+    background: transparent linear-gradient(270deg, #6156F9 0%, #1A129F 100%) 0% 0% no-repeat padding-box;
+    align-content: center;
+    height: 35px;
+    border: none;
+    color: white;
+}
+
+#dollar{
+    color:#1000FF;
+    font-size: 30px;
+}
+#king{
+    font-size: 15px;
+    color: #7E76F9;
+    margin-left: 510px;
+}
+#queen
+{
+    color: #42495B;
+    font-size: 25px;
+    margin-left: 380px;
+}
+#mail
+{
+    margin-left: 350px;
+    width: 310px;
+    background-color: #F6F7FB;
+    border: none;
+    font-size: 9px;
+    color: #999999;
+    height: 35px;
+    opacity: 0.50;
+    padding-left: 19px;
+}
+#last-button
+{
+    font-size: 12px;
+    margin-top: 15px;
+    border-radius: 29px;
+    width: 100px;
+    background: transparent linear-gradient(270deg, #6156F9 0%, #1A129F 100%) 0% 0% no-repeat padding-box;
+    align-content: center;
+    height: 35px;
+    border: none;
+    color: white;
+    margin-left: 15px;
+}
+#footer{
+    background-image: url(../img/footer.svg);
+}
+#facebook
+{
+    margin-right: 10px;
+}
+#google
+{
+    margin-right: 10px;
+}
+#instagram
+{
+    margin-right: 10px;
+}
+#twitter
+{
+    margin-right: 10px;
+}
